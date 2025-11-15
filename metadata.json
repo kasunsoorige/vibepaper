@@ -1,0 +1,5 @@
+{
+  "name": "VibePaper",
+  "description": "Generate unique phone wallpapers based on your current vibe. Describe a mood, a scene, or a feeling, and get four artistic interpretations in a perfect 9:16 aspect ratio. Download your favorites or remix them to explore new variations.",
+  "requestFramePermissions": []
+}
